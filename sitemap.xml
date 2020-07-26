@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://code004.ml/about/</loc>
+    
+    <lastmod>2020-07-26T06:18:13.298Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://code004.ml/posts/chuangzhi-attacking-this-blog/</loc>
     
     <lastmod>2020-07-25T04:42:06.744Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://code004.ml/posts/about-domain-transfer/</loc>
     
     <lastmod>2020-05-29T17:26:15.259Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://code004.ml/about/</loc>
-    
-    <lastmod>2020-05-27T13:40:49.643Z</lastmod>
     
   </url>
   
